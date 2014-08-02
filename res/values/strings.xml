@@ -1,0 +1,26 @@
+<!--  
+Copyright (c) 2012, Apps4Av Inc. (apps4av.com) 
+All rights reserved.
+-->
+
+<resources>
+
+    <string name="app_name">Apps4Av Online</string>
+    <string name="register">Register</string>
+    <string name="unregister">Unregister</string>
+    <string name="error">Error</string>
+    <string name="error_google">Please install Google Services before registering</string>
+    <string name="error_internet">Please connect to a working Internet connection</string>
+    <string name="error_email">Please register a Gmail account before registering</string>
+    <string name="already_registered">You are already registered with the Apps4Av online services</string>
+    <string name="already_unregistered">You are already unregistered from the Apps4Av online services</string>
+    <string name="registering_google">Registering with the Google servers</string>
+    <string name="unregistering_google">Unregistering from the Google servers</string>
+    <string name="register_question">Do you want to register with the Apps4Av online services?</string>
+    <string name="unregister_question">Do you want to unregister from the Apps4Av online services?</string>
+    <string name="OK">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="new_message">A new message from Apps4Av</string>
+    
+</resources>
